@@ -9,18 +9,26 @@ Software Prerequisites
 --------------
 
 Install the following dependencies 
+
 TensorFlow
+
 Keras
+
 Jupyter Notebook or (Google Colab) 
+
 TensorFlow Lite inference engine on Raspberry Pi 
 
 Hardware Prerequisites
 ----------------------
 ----------------------
 Raspberry Pi
+
 Microphone
+
 Led
+
 Relay
+
 Breadboard  
 
 Getting Started
